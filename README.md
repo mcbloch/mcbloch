@@ -1,10 +1,15 @@
 ### Hi there 👋
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mcbloch&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcbloch&count_private=true&show_icons=true&theme=tokyonight&langs_count=15&layout=compact&hide=html,css" />
+</a>
+
+
 <!--
 **mcbloch/mcbloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![GH Stats](https://github-readme-stats.vercel.app/api?username=mcbloch&count_private=true&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcbloch&count_private=true&show_icons=true&theme=outrun&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
