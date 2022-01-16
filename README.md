@@ -1,4 +1,8 @@
-### Hi there 👋
+# mcbloch
+
+
+[![OS: Void Linux](https://img.shields.io/badge/os-Void%20Linux-blue)](https://voidlinux.org/)
+[![WM: sway](https://img.shields.io/badge/wm-sway-success)](https://swaywm.org/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mcbloch&count_private=true&show_icons=true&theme=tokyonight" />
